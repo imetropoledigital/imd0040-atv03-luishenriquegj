@@ -5,7 +5,6 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Type;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 class ClassTest {
 
     @Test
